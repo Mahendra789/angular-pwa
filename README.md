@@ -31,9 +31,6 @@ Now, we will verify the PWA application using Lighthouse extension on the Google
 Install the lighthouse extension from chrome web store.
 
 Next, open the browser console by using the Ctrl + Shift + I.
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 
 ## Further help
 
